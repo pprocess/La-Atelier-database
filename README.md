@@ -5,12 +5,10 @@ This is a simple database of a rental website made as a database project by me a
 <br>
 I acknowledge that this design has several flaws and could have been a lot better, but it does our job on our 1st try so why not :)
 <br><br><br><br>
-<center>
-  create database<br>
-  |<br>
-  insert data<br>
-  |<br>
-  constraint testing
-  |<br>
-  run the queries
-</center>
+create database<br><br>
+|<br><br>
+insert data<br><br>
+|<br><br>
+constraint testing<br><br>
+|<br><br>
+run the queries
