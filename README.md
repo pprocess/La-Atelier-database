@@ -4,3 +4,13 @@
 This is a simple database of a rental website made as a database project by me and my buddies. It is only a mockup website and doesn't contain real-world practical design and has SQL files for creating, inserting, and manipulating data, and has documentation like ERD, business rules, and other documentation for the database.
 <br>
 I acknowledge that this design has several flaws and could have been a lot better, but it does our job on our 1st try so why not :)
+<br><br><br><br>
+<center>
+  create database<br>
+  |<br>
+  insert data<br>
+  |<br>
+  constraint testing
+  |<br>
+  run the queries
+</center>
